@@ -1,2 +1,2 @@
 # Stock-Market-Prediction
-Live Stock Prognosticate using Machine Learning and Python
+Live Stock Prognosticate using Machine Learning and Python.
